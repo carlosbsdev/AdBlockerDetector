@@ -1,4 +1,6 @@
 # AdBlockerDetector
+![Dependencies](https://img.shields.io/badge/Dependencies-jQuery-green.svg)
+
 Detecta si AdBlocker esta activo o no en la web.
 
 # Modo de uso
