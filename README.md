@@ -8,7 +8,7 @@ Añade a tu sitio el archivo (en el head) `<script src="advertisement.js"></scri
 
 Y con este código determinas si AdBlock está o no activo:
 
-```
+```html
 $(window).load(function() {
 	  if ($("#adblock").length) {
 	      //ADBLOCK DESACTIVADO
